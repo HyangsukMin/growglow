@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyangsuk Min"
-  avatar           : "/assets/images/bio-photo1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo1.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Study DS/ML/DL"
   location         : "South Korea"
   email            : hyangsukmin503@gmail.com
